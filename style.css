@@ -1,0 +1,70 @@
+body {
+    background-image: url("scenary1.jpg");
+    height: 965px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#D1 {
+    color: #1F2833;
+    text-align: center;
+    padding: 25px;
+    position: static;
+}
+
+#D2 {
+    background-color: white;
+    padding: 10px;
+    border: solid #1F2833;
+    text-align: center;
+}
+
+#I1 {
+    border: solid #1F2833;
+    margin-right: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+#BUT1 {
+    border: solid #1F2833;
+    color: white;
+    background-color: #1F2833;
+}
+
+.card1 {
+    width: 25rem;
+    height: 40rem;
+    background-image: url("weather.jpg");
+    border: 1px solid #1F2833;
+    color: white;
+    background-repeat: round;
+}
+
+.card2 {
+    width: 25rem;
+    height: 40rem;
+    background-image: url("scenary.jpg");
+    border: 1px solid #1F2833;
+    color: white;
+    background-position: bottom;
+    background-repeat: repeat;
+
+}
+
+.card3 {
+    background-color: #1F2833;
+    display: inline-block;
+}
+
+.border1 {
+    border: 2px solid #1F2833;
+    color: white;
+}
+
+#D3 {
+    text-align: center;
+    color: red;
+    margin: 1rem;
+}
